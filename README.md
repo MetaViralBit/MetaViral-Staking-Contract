@@ -5,7 +5,7 @@ Smart contracts for IBFT PoS
 ## How to start
 
 ```shell
-$ git clone https://github.com/0xPolygon/staking-contracts.git
+$ git clone https://github.com/MetaViralBit/MetaViral-Staking-Contract.git
 $ cd staking-contracts
 $ npm i
 ```
